@@ -1,0 +1,398 @@
+[$Version]
+update_info=filepicker.upd:filepicker-remove-old-previews-entry,fonts_global.upd:Fonts_Global,fonts_global_toolbar.upd:Fonts_Global_Toolbar,icons_remove_effects.upd:IconsRemoveEffects,kwin.upd:animation-speed,style_widgetstyle_default_breeze.upd:StyleWidgetStyleDefaultBreeze,bismuth_shortcuts_from_kwin.upd:bismuth-shortcuts-from-kwin
+
+[ActivityManager]
+_k_friendly_name=활동 관리자
+switch-to-activity-d23c85aa-df6c-4815-92d8-aaa7d3d5ace9=none,none,활동 "Default"(으)로 전환
+
+[KDE Keyboard Layout Switcher]
+Switch keyboard layout to 영어 (미국)=none,none,키보드 레이아웃을 영어 (미국)(으)로 전환
+Switch to Next Keyboard Layout=none,Meta+Alt+K,다음 키보드 레이아웃으로 전환
+_k_friendly_name=키보드 레이아웃 전환기
+
+[bismuth]
+_k_friendly_name=Window Tiling
+decrease_master_size=none,,Decrease Master Area Size
+decrease_master_win_count=Meta+[,Meta+[,Decrease Master Area Window Count
+decrease_window_height=Meta+Shift+K,Meta+Ctrl+K,Decrease Window Height
+decrease_window_width=Meta+Shift+H,Meta+Ctrl+H,Decrease Window Width
+focus_bottom_window=none,Meta+J,Focus Bottom Window
+focus_left_window=none,Meta+H,Focus Left Window
+focus_next_window=none,,Focus Next Window
+focus_prev_window=none,,Focus Previous Window
+focus_right_window=none,Meta+L,Focus Right Window
+focus_upper_window=none,Meta+K,Focus Upper Window
+increase_master_size=none,,Increase Master Area Size
+increase_master_win_count=Meta+],Meta+],Increase Master Area Window Count
+increase_window_height=Meta+Shift+J,Meta+Ctrl+J,Increase Window Height
+increase_window_width=Meta+Shift+L,Meta+Ctrl+L,Increase Window Width
+move_window_to_bottom_pos=Meta+Ctrl+J,Meta+Shift+J,Move Window Down
+move_window_to_left_pos=Meta+Ctrl+H,Meta+Shift+H,Move Window Left
+move_window_to_next_pos=none,,Move Window to the Next Position
+move_window_to_prev_pos=none,,Move Window to the Previous Position
+move_window_to_right_pos=Meta+Ctrl+L,Meta+Shift+L,Move Window Right
+move_window_to_upper_pos=Meta+Ctrl+K,Meta+Shift+K,Move Window Up
+next_layout=Meta+\\\\,Meta+\\\\,Switch to the Next Layout
+prev_layout=Meta+|,Meta+|,Switch to the Previous Layout
+push_window_to_master=Meta+Alt+Return,Meta+Return,Push Active Window to Master Area
+rotate=Meta+R,Meta+R,Rotate
+rotate_part=Meta+Shift+R,Meta+Shift+R,Rotate Part
+rotate_reverse=none,,Rotate (Reverse)
+toggle_float_layout=Meta+Shift+F,Meta+Shift+F,Toggle Floating Layout
+toggle_monocle_layout=Meta+Shift+M,Meta+M,Toggle Monocle Layout
+toggle_quarter_layout=none,,Toggle Quarter Layout
+toggle_spiral_layout=none,,Toggle Spiral Layout
+toggle_spread_layout=none,,Toggle Spread Layout
+toggle_stair_layout=none,,Toggle Stair Layout
+toggle_three_column_layout=none,,Toggle Three Column Layout
+toggle_tile_layout=Meta+Shift+T,Meta+T,Toggle Tile Layout
+toggle_window_floating=Meta+F,Meta+F,Toggle Active Window Floating
+
+[kaccess]
+Toggle Screen Reader On and Off=Meta+Alt+S,Meta+Alt+S,스크린 리더 켜고 끄기
+_k_friendly_name=접근성
+
+[kcm_touchpad]
+Disable Touchpad=Touchpad Off,Touchpad Off,터치패드 비활성화
+Enable Touchpad=Touchpad On,Touchpad On,터치패드 활성화
+Toggle Touchpad=Touchpad Toggle\tMeta+Ctrl+Zenkaku Hankaku,Touchpad Toggle\tMeta+Ctrl+Zenkaku Hankaku,터치패드 전환
+_k_friendly_name=터치패드
+
+[kded5]
+Show System Activity=Ctrl+Esc,Ctrl+Esc,시스템 활동 상태 표시
+_k_friendly_name=KDE Daemon
+display=Display\tMeta+P,Display\tMeta+P,화면 전환
+
+[khotkeys]
+_k_friendly_name=사용자 정의 단축키 서비스
+{d03619b6-9b3c-48cc-9d9c-a2aadb485550}=none,none,Search
+
+[kmix]
+_k_friendly_name=오디오 음량
+decrease_microphone_volume=Microphone Volume Down,Microphone Volume Down,마이크 음량 감소
+decrease_volume=Volume Down,Volume Down,음량 감소
+increase_microphone_volume=Microphone Volume Up,Microphone Volume Up,마이크 음량 증가
+increase_volume=Volume Up,Volume Up,음량 증가
+mic_mute=Microphone Mute\tMeta+Volume Mute,Microphone Mute\tMeta+Volume Mute,마이크 음소거
+mute=Volume Mute,Volume Mute,음소거
+
+[ksmserver]
+Halt Without Confirmation=none,,확인하지 않고 끄기
+Lock Session=Meta+L\tScreensaver,Meta+L\tScreensaver,세션 잠금
+Log Out=Ctrl+Alt+Del,Ctrl+Alt+Del,로그아웃
+Log Out Without Confirmation=none,,확인하지 않고 로그아웃
+Reboot Without Confirmation=none,,확인하지 않고 다시 시작
+_k_friendly_name=세션 관리
+
+[kwin]
+Activate Window Demanding Attention=Meta+Ctrl+A,Meta+Ctrl+A,활성 창이 주목을 기다림
+Decrease Opacity=none,,활성 창 불투명도 5% 감소
+Edit Tiles=Meta+T,Meta+T,타일 편집기 전환
+Expose=Ctrl+F9,Ctrl+F9,보이는 창 바꾸기(현재 바탕 화면)
+ExposeAll=Ctrl+F10\tLaunch (C),Ctrl+F10\tLaunch (C),보이는 창 바꾸기(모든 바탕 화면)
+ExposeClass=Ctrl+F7,Ctrl+F7,보이는 창 바꾸기(창 클래스)
+ExposeClassCurrentDesktop=none,none,보이는 창 바꾸기(현재 바탕 화면의 창 클래스)
+Increase Opacity=none,,활성 창 불투명도 5% 증가
+Kill Window=Meta+Ctrl+Esc,Meta+Ctrl+Esc,창 강제 종료
+MinimizeAll=Meta+D,none,MinimizeAll
+Move Tablet to Next Output=none,none,다음 출력으로 태블릿 이동
+MoveMouseToCenter=Meta+F6,Meta+F6,마우스를 가운데로 이동
+MoveMouseToFocus=Meta+F5,Meta+F5,마우스를 포커스로 이동
+MoveZoomDown=none,none,크기 조정된 영역을 아래로 이동
+MoveZoomLeft=none,none,크기 조정된 영역을 왼쪽으로 이동
+MoveZoomRight=none,none,크기 조정된 영역을 오른쪽으로 이동
+MoveZoomUp=none,none,크기 조정된 영역을 위로 이동
+Overview=Meta+W,Meta+W,한눈에 보기 전환
+PoloniumCycleLayouts=none,none,Polonium: Cycle layouts
+PoloniumEngineBTree=none,none,Polonium: Switch to BTree Engine
+PoloniumEngineHalf=none,none,Polonium: Switch to Half Engine
+PoloniumEngineKWin=none,none,Polonium: Switch to KWin Engine
+PoloniumEngineMonocle=none,none,Polonium: Switch to Monocle Engine
+PoloniumEngineThreeColumn=none,none,Polonium: Switch to Three Column Engine
+PoloniumFocusAbove=none,none,Polonium: Focus Above
+PoloniumFocusBelow=none,none,Polonium: Focus Below
+PoloniumFocusLeft=none,none,Polonium: Focus Left
+PoloniumFocusRight=none,none,Polonium: Focus Right
+PoloniumInsertAbove=none,none,Polonium: Insert Above
+PoloniumInsertBelow=none,none,Polonium: Insert Below
+PoloniumInsertLeft=none,none,Polonium: Insert Left
+PoloniumInsertRight=none,none,Polonium: Insert Right
+PoloniumOpenSettings=none,none,Polonium: Open Settings Dialog
+PoloniumRebuildLayout=Meta+Ctrl+Space,none,Polonium: Rebuild Layout
+PoloniumResizeTileDown=none,none,Polonium: Resize Tile Down
+PoloniumResizeTileLeft=none,none,Polonium: Resize Tile Left
+PoloniumResizeTileRight=none,none,Polonium: Resize Tile Right
+PoloniumResizeTileUp=none,none,Polonium: Resize Tile Up
+PoloniumRetileWindow=none,none,Polonium: Untile/Retile Window
+PoloniumShowSettings=none,none,Polonium: Show Settings Dialog
+PoloniumSwapAbove=none,none,Polonium: Swap Above
+PoloniumSwapBelow=none,none,Polonium: Swap Below
+PoloniumSwapLeft=none,none,Polonium: Swap Left
+PoloniumSwapRight=none,none,Polonium: Swap Right
+Setup Window Shortcut=none,,창 단축키 설정
+Show Desktop=none,Meta+D,바탕 화면 멀리 보기
+ShowDesktopGrid=Meta+F8,Meta+F8,바탕 화면 격자 표시
+Suspend Compositing=Alt+Shift+F12,Alt+Shift+F12,컴포지팅 중단하기
+Switch One Desktop Down=Meta+Ctrl+Down,Meta+Ctrl+Down,아래쪽 바탕 화면으로 전환
+Switch One Desktop Up=Meta+Ctrl+Up,Meta+Ctrl+Up,위쪽 바탕 화면으로 전환
+Switch One Desktop to the Left=Meta+Ctrl+Left,Meta+Ctrl+Left,왼쪽 바탕 화면으로 전환
+Switch One Desktop to the Right=Meta+Ctrl+Right,Meta+Ctrl+Right,오른쪽 바탕 화면으로 전환
+Switch Window Down=Meta+Alt+J\tMeta+Alt+Down,Meta+Alt+Down,아래쪽 창으로 전환
+Switch Window Left=Meta+Alt+Left\tMeta+Alt+H,Meta+Alt+Left,왼쪽 창으로 전환
+Switch Window Right=Meta+Alt+Right\tMeta+Alt+L,Meta+Alt+Right,오른쪽 창으로 전환
+Switch Window Up=Meta+Alt+Up\tMeta+Alt+K,Meta+Alt+Up,위쪽 창으로 전환
+Switch to Desktop 1=Ctrl+F1\tMeta+Ctrl+1,Ctrl+F1,바탕 화면 1(으)로 전환
+Switch to Desktop 10=Meta+Ctrl+0,,바탕 화면 10(으)로 전환
+Switch to Desktop 11=none,,바탕 화면 11(으)로 전환
+Switch to Desktop 12=none,,바탕 화면 12(으)로 전환
+Switch to Desktop 13=none,,바탕 화면 13(으)로 전환
+Switch to Desktop 14=none,,바탕 화면 14(으)로 전환
+Switch to Desktop 15=none,,바탕 화면 15(으)로 전환
+Switch to Desktop 16=none,,바탕 화면 16(으)로 전환
+Switch to Desktop 17=none,,바탕 화면 17(으)로 전환
+Switch to Desktop 18=none,,바탕 화면 18(으)로 전환
+Switch to Desktop 19=none,,바탕 화면 19(으)로 전환
+Switch to Desktop 2=Meta+Ctrl+2\tCtrl+F2,Ctrl+F2,바탕 화면 2(으)로 전환
+Switch to Desktop 20=none,,바탕 화면 20(으)로 전환
+Switch to Desktop 3=Ctrl+F3\tMeta+Ctrl+3,Ctrl+F3,바탕 화면 3(으)로 전환
+Switch to Desktop 4=Meta+Ctrl+4\tCtrl+F4,Ctrl+F4,바탕 화면 4(으)로 전환
+Switch to Desktop 5=Meta+Ctrl+5,,바탕 화면 5(으)로 전환
+Switch to Desktop 6=Meta+Ctrl+6,,바탕 화면 6(으)로 전환
+Switch to Desktop 7=Meta+Ctrl+7,,바탕 화면 7(으)로 전환
+Switch to Desktop 8=Meta+Ctrl+8,,바탕 화면 8(으)로 전환
+Switch to Desktop 9=Meta+Ctrl+9,,바탕 화면 9(으)로 전환
+Switch to Next Desktop=none,,다음 바탕 화면으로 전환
+Switch to Next Screen=none,,다음 화면으로 전환
+Switch to Previous Desktop=none,,이전 바탕 화면으로 전환
+Switch to Previous Screen=none,,이전 화면으로 전환
+Switch to Screen 0=none,,화면 0(으)로 전환
+Switch to Screen 1=none,,화면 1(으)로 전환
+Switch to Screen 2=none,,화면 2(으)로 전환
+Switch to Screen 3=none,,화면 3(으)로 전환
+Switch to Screen 4=none,,화면 4(으)로 전환
+Switch to Screen 5=none,,화면 5(으)로 전환
+Switch to Screen 6=none,,화면 6(으)로 전환
+Switch to Screen 7=none,,화면 7(으)로 전환
+Switch to Screen Above=none,,위쪽 화면으로 전환
+Switch to Screen Below=none,,아래쪽 화면으로 전환
+Switch to Screen to the Left=none,,왼쪽 화면으로 전환
+Switch to Screen to the Right=none,,오른쪽 화면으로 전환
+Toggle Night Color=none,none,야간 색상 전환
+Toggle Window Raise/Lower=none,,창 올리거나 내리기
+ToggleCurrentThumbnail=Meta+Ctrl+T,Meta+Ctrl+T,현재 창의 섬네일 켬/끔
+Walk Through Desktop List=none,,바탕 화면 목록에서 이동
+Walk Through Desktop List (Reverse)=none,,바탕 화면간 거꾸로 이동
+Walk Through Desktops=none,,바탕 화면간 이동
+Walk Through Desktops (Reverse)=none,,바탕 화면간 거꾸로 이동
+Walk Through Windows=Alt+Tab,Alt+Tab,창간 이동
+Walk Through Windows (Reverse)=Alt+Shift+Backtab,Alt+Shift+Backtab,창간 거꾸로 이동
+Walk Through Windows Alternative=none,,현재 앱의 창간 다르게 이동
+Walk Through Windows Alternative (Reverse)=none,,현재 앱의 창간 거꾸로 다르게 이동
+Walk Through Windows of Current Application=Alt+`,Alt+`,현재 앱의 창간 이동
+Walk Through Windows of Current Application (Reverse)=Alt+~,Alt+~,현재 앱의 창간 거꾸로 이동
+Walk Through Windows of Current Application Alternative=none,,현재 앱의 창간 다르게 이동
+Walk Through Windows of Current Application Alternative (Reverse)=none,,현재 앱의 창간 거꾸로 다르게 이동
+Window Above Other Windows=none,,창을 항상 위에 표시
+Window Below Other Windows=none,,창을 항상 아래에 표시
+Window Close=Meta+C\tAlt+F4,Alt+F4,창 닫기
+Window Fullscreen=none,,창을 전체 화면으로
+Window Grow Horizontal=none,,창을 수평으로 확장
+Window Grow Vertical=none,,창을 수직으로 확장
+Window Lower=none,,창 내리기
+Window Maximize=Meta+PgUp,Meta+PgUp,창 최대화
+Window Maximize Horizontal=none,,창 수평 최대화
+Window Maximize Vertical=none,,창 수직 최대화
+Window Minimize=Meta+PgDown,Meta+PgDown,창 최소화
+Window Move=none,,창 이동
+Window Move Center=none,,창을 가운데로 이동
+Window No Border=none,,창 제목 표시줄과 프레임 전환
+Window On All Desktops=none,,창을 모든 바탕 화면에 표시하기
+Window One Desktop Down=Meta+Ctrl+Shift+J\tMeta+Ctrl+Shift+Down,Meta+Ctrl+Shift+Down,아래쪽 바탕 화면으로 창 이동
+Window One Desktop Up=Meta+Ctrl+Shift+Up\tMeta+Ctrl+Shift+K,Meta+Ctrl+Shift+Up,위쪽 바탕 화면으로 창 이동
+Window One Desktop to the Left=Meta+Ctrl+Shift+H\tMeta+Ctrl+Shift+Left,Meta+Ctrl+Shift+Left,왼쪽 바탕 화면으로 창 이동
+Window One Desktop to the Right=Meta+Ctrl+Shift+Right\tMeta+Ctrl+Shift+L,Meta+Ctrl+Shift+Right,오른쪽 바탕 화면으로 창 이동
+Window One Screen Down=none,,창을 아래쪽으로 한 화면
+Window One Screen Up=none,,창을 위쪽으로 한 화면
+Window One Screen to the Left=none,,창을 왼쪽으로 한 화면
+Window One Screen to the Right=none,,창을 오른쪽으로 한 화면
+Window Operations Menu=Alt+F3,Alt+F3,창 동작 메뉴
+Window Pack Down=none,,창을 아래로 이동
+Window Pack Left=none,,창을 왼쪽으로 이동
+Window Pack Right=none,,창을 오른쪽으로 이동
+Window Pack Up=none,,창을 위로 이동
+Window Quick Tile Bottom=Meta+Down,Meta+Down,창을 아래로 보내기
+Window Quick Tile Bottom Left=none,,창을 왼쪽 아래로 보내기
+Window Quick Tile Bottom Right=none,,창을 오른쪽 아래로 보내기
+Window Quick Tile Left=Meta+Left,Meta+Left,창을 왼쪽 위로 보내기
+Window Quick Tile Right=Meta+Right,Meta+Right,창을 오른쪽 위로 보내기
+Window Quick Tile Top=Meta+Up,Meta+Up,창을 위로 보내기
+Window Quick Tile Top Left=none,,창을 왼쪽 위로 보내기
+Window Quick Tile Top Right=none,,창을 오른쪽 위로 보내기
+Window Raise=none,,창 올리기
+Window Resize=none,,창 크기 조정
+Window Shade=none,,창 말아 올리기
+Window Shrink Horizontal=none,,창을 수평으로 축소
+Window Shrink Vertical=none,,창을 수직으로 축소
+Window to Desktop 1=none,,창을 바탕 화면 1(으)로 보내기
+Window to Desktop 10=none,,창을 바탕 화면 10(으)로 보내기
+Window to Desktop 11=none,,창을 바탕 화면 11(으)로 보내기
+Window to Desktop 12=none,,창을 바탕 화면 12(으)로 보내기
+Window to Desktop 13=none,,창을 바탕 화면 13(으)로 보내기
+Window to Desktop 14=none,,창을 바탕 화면 14(으)로 보내기
+Window to Desktop 15=none,,창을 바탕 화면 15(으)로 보내기
+Window to Desktop 16=none,,창을 바탕 화면 16(으)로 보내기
+Window to Desktop 17=none,,창을 바탕 화면 17(으)로 보내기
+Window to Desktop 18=none,,창을 바탕 화면 18(으)로 보내기
+Window to Desktop 19=none,,창을 바탕 화면 19(으)로 보내기
+Window to Desktop 2=none,,창을 바탕 화면 2(으)로 보내기
+Window to Desktop 20=none,,창을 바탕 화면 20(으)로 보내기
+Window to Desktop 3=none,,창을 바탕 화면 3(으)로 보내기
+Window to Desktop 4=none,,창을 바탕 화면 4(으)로 보내기
+Window to Desktop 5=none,,창을 바탕 화면 5(으)로 보내기
+Window to Desktop 6=none,,창을 바탕 화면 6(으)로 보내기
+Window to Desktop 7=none,,창을 바탕 화면 7(으)로 보내기
+Window to Desktop 8=none,,창을 바탕 화면 8(으)로 보내기
+Window to Desktop 9=none,,창을 바탕 화면 9(으)로 보내기
+Window to Next Desktop=none,,다음 바탕 화면으로 창 이동
+Window to Next Screen=Meta+Shift+Right,Meta+Shift+Right,다음 데스크톱으로 창 이동
+Window to Previous Desktop=none,,이전 바탕 화면으로 창 이동
+Window to Previous Screen=Meta+Shift+Left,Meta+Shift+Left,이전 화면으로 창 이동
+Window to Screen 0=none,,창을 화면 0(으)로 보내기
+Window to Screen 1=none,,창을 화면 1(으)로 보내기
+Window to Screen 2=none,,창을 화면 2(으)로 보내기
+Window to Screen 3=none,,창을 화면 3(으)로 보내기
+Window to Screen 4=none,,창을 화면 4(으)로 보내기
+Window to Screen 5=none,,창을 화면 5(으)로 보내기
+Window to Screen 6=none,,창을 화면 6(으)로 보내기
+Window to Screen 7=none,,창을 화면 7(으)로 보내기
+_k_friendly_name=KWin
+view_actual_size=Meta+0,Meta+0,실제 크기로 조정(A)
+view_zoom_in=Meta++\tMeta+=,Meta++\tMeta+=,확대(I)
+view_zoom_out=Meta+-,Meta+-,축소(O)
+
+[logseq-2.desktop]
+_k_friendly_name=logseq
+_launch=none,none,logseq 실행
+
+[logseq-desktop.desktop]
+_k_friendly_name=Logseq
+_launch=none,none,Logseq 실행
+
+[logseq.desktop]
+_k_friendly_name=logseq
+_launch=none,none,logseq 실행
+
+[mediacontrol]
+_k_friendly_name=미디어 컨트롤러
+mediavolumedown=none,,미디어 음량 감소
+mediavolumeup=none,,미디어 음량 증가
+nextmedia=Media Next,Media Next,다음 미디어 재생
+pausemedia=Media Pause,Media Pause,미디어 일시 정지
+playmedia=none,,미디어 재생
+playpausemedia=Media Play,Media Play,미디어 재생/일시 정지
+previousmedia=Media Previous,Media Previous,이전 미디어 재생
+stopmedia=Media Stop,Media Stop,미디어 재생 정지
+
+[org.kde.dolphin.desktop]
+_k_friendly_name=Dolphin
+_launch=Meta+E,Meta+E,Dolphin
+
+[org.kde.kcalc.desktop]
+_k_friendly_name=KCalc
+_launch=Launch (1),Launch (1),KCalc
+
+[org.kde.konsole.desktop]
+NewTab=none,none,새 탭 열기
+NewWindow=none,none,새 창 열기
+_k_friendly_name=Konsole
+_launch=Ctrl+Alt+T\tMeta+Shift+Return,Ctrl+Alt+T,Konsole
+
+[org.kde.krunner.desktop]
+RunClipboard=Alt+Shift+F2,Alt+Shift+F2,클립보드 내용에서 명령 실행하기
+_k_friendly_name=KRunner
+_launch=Alt+Space\tAlt+F2\tSearch,Alt+Space\tAlt+F2\tSearch,KRunner
+
+[org.kde.plasma.emojier.desktop]
+_k_friendly_name=이모지 선택기
+_launch=Meta+.\tMeta+Ctrl+Alt+Shift+Space,Meta+.\tMeta+Ctrl+Alt+Shift+Space,이모지 선택기
+
+[org.kde.spectacle.desktop]
+ActiveWindowScreenShot=Meta+Print,Meta+Print,활성 창 찍기
+CurrentMonitorScreenShot=none,none,현재 모니터 찍기
+FullScreenScreenShot=Shift+Print,Shift+Print,전체 바탕 화면 찍기
+OpenWithoutScreenshot=none,none,캡처하지 않고 Spectacle 실행
+RectangularRegionScreenShot=Meta+Shift+S\tMeta+Shift+Print,Meta+Shift+Print,직사각형 영역 찍기
+WindowUnderCursorScreenShot=Meta+Ctrl+Print,Meta+Ctrl+Print,커서 아래 창 캡처
+_k_friendly_name=Spectacle
+_launch=Print,Print,Spectacle 실행
+
+[org.kde.yakuake.desktop]
+_k_friendly_name=Yakuake
+_launch=Meta+Return,none,Yakuake
+
+[org_kde_powerdevil]
+Decrease Keyboard Brightness=Keyboard Brightness Down,Keyboard Brightness Down,키보드 밝기 감소
+Decrease Screen Brightness=Monitor Brightness Down,Monitor Brightness Down,화면 밝기 감소
+Hibernate=Hibernate,Hibernate,최대 절전 모드
+Increase Keyboard Brightness=Keyboard Brightness Up,Keyboard Brightness Up,키보드 밝기 증가
+Increase Screen Brightness=Monitor Brightness Up,Monitor Brightness Up,화면 밝기 증가
+PowerDown=Power Down,Power Down,전원 끄기
+PowerOff=Power Off,Power Off,전원 끄기
+Sleep=Sleep,Sleep,절전
+Toggle Keyboard Backlight=Keyboard Light On/Off,Keyboard Light On/Off,키보드 백라이트 켬/끔
+Turn Off Screen=none,none,화면 끄기
+_k_friendly_name=전원 관리
+
+[plasmashell]
+_k_friendly_name=Plasma
+activate task manager entry 1=Meta+1,Meta+1,활성 작업 관리자 항목 1
+activate task manager entry 10=none,Meta+0,활성 작업 관리자 항목 10
+activate task manager entry 2=Meta+2,Meta+2,활성 작업 관리자 항목 2
+activate task manager entry 3=Meta+3,Meta+3,활성 작업 관리자 항목 3
+activate task manager entry 4=Meta+4,Meta+4,활성 작업 관리자 항목 4
+activate task manager entry 5=Meta+5,Meta+5,활성 작업 관리자 항목 5
+activate task manager entry 6=Meta+6,Meta+6,활성 작업 관리자 항목 6
+activate task manager entry 7=Meta+7,Meta+7,활성 작업 관리자 항목 7
+activate task manager entry 8=Meta+8,Meta+8,활성 작업 관리자 항목 8
+activate task manager entry 9=Meta+9,Meta+9,활성 작업 관리자 항목 9
+activate widget 128=none,none,패널 위젯 활성화하기
+activate widget 165=none,none,Minimal Menu 위젯 활성화하기
+activate widget 3=Alt+F1,none,앱 실행기 위젯 활성화하기
+activate widget 32=none,none,앱 실행기 위젯 활성화하기
+activate widget 37=none,none,호출기 위젯 활성화하기
+activate widget 60=none,none,Better inline clock 위젯 활성화하기
+activate widget 63=none,none,Minimal Menu 위젯 활성화하기
+activate widget 81=none,none,Better inline clock 위젯 활성화하기
+activate widget 86=none,none,Compact ShutDown 위젯 활성화하기
+activate widget 89=none,none,Minimal Menu 위젯 활성화하기
+activate widget 99=none,none,앱 실행기 위젯 활성화하기
+clear-history=none,,클립보드 기록 비우기(L)
+clipboard_action=Meta+Ctrl+X,Meta+Ctrl+X,자동 동작 팝업 메뉴
+cycle-panels=Meta+Alt+P,Meta+Alt+P,패널간 키보드 포커스 이동
+cycleNextAction=none,,다음 과거 기록 항목
+cyclePrevAction=none,,이전 과거 기록 항목
+edit_clipboard=none,,내용 편집(E)…
+manage activities=Meta+Q,Meta+Q,활동 전환기 표시
+next activity=none,Meta+Tab,활동간 전환
+previous activity=none,Meta+Shift+Tab,활동간 전환(거꾸로)
+repeat_action=Meta+Ctrl+R,Meta+Ctrl+R,현재 클립보드 내용으로 수동으로 동작 호출
+show dashboard=Ctrl+F12,Ctrl+F12,바탕 화면 표시
+show-barcode=none,,바코드 표시(S)…
+show-on-mouse-pos=Meta+V,Meta+V,마우스 커서 위치에 항목 표시
+stop current activity=Meta+S,Meta+S,현재 활동 중단하기
+switch to next activity=none,,다음 활동으로 전환
+switch to previous activity=none,,이전 활동으로 전환
+toggle do not disturb=none,,방해 금지 모드 전환
+
+[systemsettings.desktop]
+_k_friendly_name=시스템 설정
+_launch=Tools,Tools,시스템 설정
+kcm-kscreen=none,none,디스플레이 설정
+kcm-lookandfeel=none,none,전역 테마
+kcm-users=none,none,사용자
+powerdevilprofilesconfig=none,none,에너지 절약
+screenlocker=none,none,화면 잠금
+
+[yakuake]
+_k_friendly_name=Yakuake
+toggle-window-state=none,F12,Yakuake 펴기/접기

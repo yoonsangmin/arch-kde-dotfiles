@@ -1,0 +1,62 @@
+[$Version]
+update_info=kwinrules.upd:replace-placement-string-to-enum,kwinrules.upd:use-virtual-desktop-ids
+
+[0e429b1a-ee24-4d41-baef-a9d414791a99]
+Description=새 창 설정
+minsizerule=2
+types=1
+
+[1]
+Description=창 최소 크기 설정
+minsize=3,3
+minsizerule=2
+types=1
+
+[2]
+Description=창 프레임 강제 적용
+minsize=3,3
+noborderrule=2
+types=1
+
+[3]
+Description=창 프레임 강제 적용
+noborderrule=2
+types=1
+
+[4d346add-517a-404b-b6b0-c3af26b224db]
+Description=Panel  투명화
+clientmachine=localhost
+opacityactive=70
+opacityactiverule=2
+opacityinactive=70
+opacityinactiverule=2
+types=4
+wmclass=org.kde.plasmashell
+wmclassmatch=1
+
+[86148df6-bf10-449e-8493-e747ef3978e3]
+Description=창 프레임 강제 적용
+noborderrule=2
+types=1
+
+[General]
+count=2
+rules=1,2
+
+[cb274eaf-6945-4983-912e-a8a9e6e6fdf7]
+Description=새 창 설정
+fullscreenrule=3
+types=1
+
+[ea7677d6-3915-4faa-bb28-2faf0a37d611]
+Description=새 창 설정
+minsize=0,0
+minsizerule=2
+types=1
+
+[f2d43646-cc18-499f-9015-5cccca155e10]
+Description=youtube music의 앱 설정
+clientmachine=localhost
+noborderrule=4
+wmclass=youtube music
+wmclassmatch=1

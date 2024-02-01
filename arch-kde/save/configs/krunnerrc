@@ -1,0 +1,9 @@
+[General]
+FreeFloating=true
+history=
+
+[PlasmaRunnerManager]
+migrated=true
+
+[Plugins]
+baloosearchEnabled=true

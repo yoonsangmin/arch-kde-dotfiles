@@ -1,0 +1,21 @@
+[ActiveShadow]
+InnerColor=95,79,123
+ShadowSize=20
+UseOuterColor=false
+
+[InactiveShadow]
+ShadowSize=20
+
+[Windeco]
+AnimationsEnabled=false
+ButtonAnimationsEnabled=false
+DrawBorderOnMaximizedWindows=true
+ShadowAnimationsEnabled=false
+
+[Windeco Exception 0]
+BorderSize=1
+Enabled=true
+ExceptionPattern=.*
+ExceptionType=0
+HideTitleBar=true
+Mask=0

@@ -1,0 +1,58 @@
+[LegacySession: saved at previous logout]
+count=0
+
+[LegacySession: saved by user]
+count=0
+
+[Session: saved at previous logout]
+count=0
+
+[Session: saved by user]
+clientId1=10145dbd1dd000170569643500000034890005
+clientId2=10145dbd1dd000170569643500000034890006
+clientId3=10145dbd1dd000170569643500000034890007
+clientId4=10145dbd1dd000170569643500000034890008
+clientId5=10145dbd1dd000170569643500000034890009
+clientId6=10145dbd1dd000170569643500000034890010
+clientId7=10145dbd1dd000170569644200000034890012
+clientId8=10145dbd1dd000170569644400000034890013
+count=8
+discardCommand2[$e]=rm,$HOME/.config/session/yakuake_10145dbd1dd000170569643500000034890006_1705696456_698250
+discardCommand4[$e]=rm,$HOME/.config/session/kmix_10145dbd1dd000170569643500000034890008_1705696456_698250
+discardCommand7[$e]=rm,$HOME/.config/session/kate_10145dbd1dd000170569644200000034890012_1705696456_698449
+discardCommand8[$e]=rm,$HOME/.config/session/okular_10145dbd1dd000170569644400000034890013_1705696456_698396
+program1=/usr/bin/kclockd
+program2=/usr/bin/yakuake
+program3=/usr/lib/DiscoverNotifier
+program4=/usr/bin/kmix
+program5=fcitx5-plasma-theme-generator
+program6=/usr/bin/kalendarac
+program7=/usr/bin/kate
+program8=/usr/bin/okular
+restartCommand1=/usr/bin/kclockd,-session,10145dbd1dd000170569643500000034890005_1705696456_698235
+restartCommand2=/usr/bin/yakuake,-session,10145dbd1dd000170569643500000034890006_1705696456_698250
+restartCommand3=/usr/lib/DiscoverNotifier,-session,10145dbd1dd000170569643500000034890007_1705696456_698250
+restartCommand4=/usr/bin/kmix,-session,10145dbd1dd000170569643500000034890008_1705696456_698250
+restartCommand5=fcitx5-plasma-theme-generator,-session,10145dbd1dd000170569643500000034890009_1705696456_698257
+restartCommand6=/usr/bin/kalendarac,-session,10145dbd1dd000170569643500000034890010_1705696456_698265
+restartCommand7=/usr/bin/kate,-session,10145dbd1dd000170569644200000034890012_1705696456_698449
+restartCommand8=/usr/bin/okular,-session,10145dbd1dd000170569644400000034890013_1705696456_698396
+restartStyleHint1=0
+restartStyleHint2=0
+restartStyleHint3=0
+restartStyleHint4=0
+restartStyleHint5=0
+restartStyleHint6=0
+restartStyleHint7=0
+restartStyleHint8=0
+userId1=dara-linux
+userId2=dara-linux
+userId3=dara-linux
+userId4=dara-linux
+userId5=dara-linux
+userId6=dara-linux
+userId7=dara-linux
+userId8=dara-linux
+
+[SubSession: 58af1ca5-09ac-443f-9449-066565d3d6bd]
+count=0
